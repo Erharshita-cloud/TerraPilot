@@ -1,6 +1,5 @@
 # 🌍 TerraPilot – Python-Driven Terraform Automation
 
-![TerraPilot Project](images/project-structure.png)
 
 ## 🚀 Project Overview
 
