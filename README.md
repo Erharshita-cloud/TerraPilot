@@ -58,6 +58,12 @@ python terra.py
 📸 Output Screenshots
 🔹 Infrastructure created
 
+    ![Project Output](images/instance.png)
+
+    ![Project Output](images/key.png)
+
+    ![Project Output](images/securitygroup.png)
+
 
 ⭐ Key Features
 ✔ Python-based Terraform automation
@@ -75,14 +81,6 @@ Practicing DevOps scripting
 
 Infrastructure as Code automation
 
-🔮 Future Enhancements
-Add Terraform apply automation
-
-Environment-based execution (dev/stage/prod)
-
-Logging and error handling
-
-CI/CD integration
 
 👩‍💻 Author
 Harshita
