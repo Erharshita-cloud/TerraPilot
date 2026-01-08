@@ -44,23 +44,20 @@ Reduced manual errors
 Consistent execution
 
 ▶️ How to Run the Project
+
 1️⃣ Clone the Repository
-bash
-Copy code
 git clone https://github.com/your-username/TerraPilot.git
 cd TerraPilot
-2️⃣ Verify Terraform Installation
-bash
-Copy code
-terraform -version
-3️⃣ Run the Python Script
-bash
-Copy code
-python terra.py
-📸 Output Screenshots
-🔹 Terraform Initialization
 
-🔹 Terraform Destroy Automation
+2️⃣ Verify Terraform Installation
+terraform -version
+
+3️⃣ Run the Python Script
+python terra.py
+
+📸 Output Screenshots
+🔹 Infrastructure created
+
 
 ⭐ Key Features
 ✔ Python-based Terraform automation
