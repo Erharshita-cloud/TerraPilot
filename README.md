@@ -46,14 +46,14 @@ Consistent execution
 ▶️ How to Run the Project
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/TerraPilot.git
-cd TerraPilot
+    git clone https://github.com/your-username/TerraPilot.git
+    cd TerraPilot
 
 2️⃣ Verify Terraform Installation
-terraform -version
+    terraform -version
 
 3️⃣ Run the Python Script
-python terra.py
+    python terra.py
 
 📸 Output Screenshots
 🔹 Infrastructure created
@@ -66,20 +66,20 @@ python terra.py
 
 
 ⭐ Key Features
-✔ Python-based Terraform automation
-✔ Infrastructure lifecycle management
-✔ Clean and minimal DevOps setup
-✔ Beginner-friendly project
-✔ Resume-ready DevOps project
+    ✔ Python-based Terraform automation
+    ✔ Infrastructure lifecycle management
+    ✔ Clean and minimal DevOps setup
+    ✔ Beginner-friendly project
+    ✔ Resume-ready DevOps project
 
 🎯 Use Cases
-Automating infrastructure cleanup
-
-Learning Terraform with Python
-
-Practicing DevOps scripting
-
-Infrastructure as Code automation
+    Automating infrastructure cleanup
+    
+    Learning Terraform with Python
+    
+    Practicing DevOps scripting
+    
+    Infrastructure as Code automation
 
 
 👩‍💻 Author
