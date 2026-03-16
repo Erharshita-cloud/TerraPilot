@@ -77,9 +77,18 @@ python terra.py
 
 ## 📸 Output
 
-| EC2 Instance | Security Group | Key Pair |
-|---|---|---|
-| ![instance](images/instance.png) | ![sg](images/securitygroup.png) | ![key](images/key.png) |
+<table>
+  <tr>
+    <th align="center">EC2 Instance</th>
+    <th align="center">Security Group</th>
+    <th align="center">Key Pair</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/instance.png" width="320"/></td>
+    <td align="center"><img src="images/securitygroup.png" width="320"/></td>
+    <td align="center"><img src="images/key.png" width="320"/></td>
+  </tr>
+</table>
 
 ---
 
